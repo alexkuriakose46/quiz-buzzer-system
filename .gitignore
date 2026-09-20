@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+dist/
+build/
+*.spec
+*.egg-info/
+.env
+venv/
+env/
+
+# Arduino / PlatformIO
+*.elf
+*.bin
+*.hex
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
